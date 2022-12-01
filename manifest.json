@@ -1,6 +1,6 @@
 {
-    "name": "respaldo_seguro",
-    "short_name": "respaldo_seguro",
+    "name": "paquete_web",
+    "short_name": "paquete_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
