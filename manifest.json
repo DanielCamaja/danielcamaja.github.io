@@ -1,6 +1,6 @@
 {
-    "name": "paquete_web",
-    "short_name": "paquete_web",
+    "name": "flutter_application_2",
+    "short_name": "flutter_application_2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
